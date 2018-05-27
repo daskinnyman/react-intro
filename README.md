@@ -14,7 +14,7 @@ git clone https://github.com/daskinnyman/-react-intro.git
 ```
 npm i 
 ```
-### 4. 開始專案
+### 4. 開始專案
 ```
 npm start 
 ```
