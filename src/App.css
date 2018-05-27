@@ -1,0 +1,38 @@
+.wrapper{
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.avatar {
+  height:40px;
+  width:40px;
+  border-radius: 40px;
+  background-color: red;
+  margin-right:8px 
+}
+
+.input{
+  border: 1px solid #e8e8e8;
+  padding: 8px;
+} 
+.input-container{
+  display: flex;
+}
+
+input{
+  border: none
+}
+
+.button-wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.button-wrapper button{
+ width: 50px;
+}
